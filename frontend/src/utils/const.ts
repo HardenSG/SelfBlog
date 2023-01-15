@@ -1,0 +1,15 @@
+export enum URL {
+  Index = '/pages/Index/index',
+  Group = '/pages/Group/index',
+  My = '/pages/My/index',
+  Manage = '/pages/Manage/index',
+  Detail = '/pages/Detail/index',
+  GroupMessgae = '/pages/Group/Message/index',
+  GroupEditor = '/pages/Group/Editor/index',
+  GroupHot = '/pages/Group/Hot/index',
+  MyEdit = '/pages/My/Edit/index',
+  MyMessage = '/pages/My/Message/index',
+  ManageDiscuss = '/pages/Manage/Discuss/index',
+  ManageUser = '/pages/Manage/User/index',
+  ManageTopic = '/pages/Manage/Topic/index',
+}
